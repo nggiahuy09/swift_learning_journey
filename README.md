@@ -29,23 +29,10 @@ A currency conversion app using a free API. This was my first hands-on project w
 
 ---
 
-### 3. 📍 [Around Places](https://github.com/nggiahuy09/around_places)
-> **Topic:** Advanced Networking · Location Services · Maps
-
-An upgrade from Currency Convertor — this project combines networking with CoreLocation and MapKit to display nearby places around the user.
-
-- 🗺 MapKit / CoreLocation
-- 🌐 Advanced Networking
-- 📡 API Integration
-- 🛠 Swift · UIKit / SwiftUI
-
----
-
 ## 🗺 Roadmap
 
 - [x] Local Storage with IncomeApp
 - [x] Basic Networking with Currency Converter
-- [x] Advanced Networking + Location with Around Places
 - [ ] *(Coming soon — more to be added...)*
 
 ---
